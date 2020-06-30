@@ -1,0 +1,578 @@
+{
+  "translation": {
+    "selfReportingTitle": " ",
+    "beta": "beta",
+    "yes": "Yes",
+    "no": "No",
+    "warnDisclaimer": "This tool is for informational purposes only, it does not provide medical advice.<br/>The content is not intended to be a substitute for professional medical advice, dignosis, or treatment"
+  },
+  "home": {
+    "leadTitle": "La Municipalidad de Encarnación está realizando un censo social para prevenir y atender a todos los Encarnacenos de las consecuencias sanitarias, sociales y económicas de la Pandemia del Coronavirus.",
+    "leadSecondary": "Te pedimos que completes este cuestionario con DATOS REALES, pues solamente así podremos AYUDAR A QUIENES MÁS NECESITAN y SALVAR VIDAS.",
+    "ctaCheckSymptoms": "Encuesta",
+    "listFirst": "Your personal information is optional, don't worry!",
+    "listSecond": "Look at the statistics we've already gathered <1>here</1>."
+  },
+  "navbar": {
+    "home": "Hogar",
+    "selfReporting": "Encuesta",
+    "login": "Iniciar sesión",
+    "aboutUs": "About us"
+  },
+  "footer": {
+    "followAndContribute": "Follow us and contribute",
+    "shareText": "We'd love hear your thoughts. Don't hesitate to share with us your thoughts on how can we improve things",
+    "aboutUs": "About us",
+    "aboutUsText": "We are a group of people and companies that are committed to Paraguay. Our goal is to soften the blow caused by the pandemic to the Paraguayan health system by building technologies.",
+    "madeWithLove": "Made with<1></1>in Paraguay"
+  },
+  "about": {
+    "leadText": "This proyect is an automated notification system, that allows individuals to report their symptoms and obtain recommendations on how to proceed, while also generating data from the situation.",
+    "contributeTitle": "Contribute to CovPy",
+    "contributeText": "CovPy is free and open-source. You can find the source code in Github. Contributions are welcomed! You can also simply <1>report a bug</1> or request a feature there.",
+    "learnMore": "Learn more",
+    "goodCompanyTitle": "You are in good company",
+    "goodCompanyText1": "This proyect is a Penguin Academy initiative that aims to soften blow to Paraguay's Healthcare System caused by the COVID-19 pandemic.",
+    "goodCompanyText2": "CovPy is developed and maintained by Penguin Academy, UCOM, the Product Lab, Web Paraguay, Okimo, and many other organizations as well as other amazing contributors"
+  },
+  "formStart": {
+    "Antes de empezar": "Before we begin",
+    "agreeTOSMessage": "By continuing, you agree to our <1>terms of service</1>.",
+    "howDoYouFeel": "Overall, how do you feel at this moment?",
+    "good": "Well",
+    "bad": "Sick",
+    "justTesting": "I'm just testing the application"
+  },
+  "form": {
+    "firstName": {
+      "question": "Nombre"
+    },
+    "lastName": {
+      "question": "Apellido"
+    },
+    "idNumber": {
+      "question": "Cedula de Identidad"
+    },
+    "gender": {
+      "question": "Sexo",
+      "options": {
+        "male": "Hombre",
+        "female": "Mujer"
+      }
+    },
+    "cellPhoneNumber": {
+      "question": "Numero de Celular (introducir en formato 981123123)"
+    },
+    "age": {
+      "question": "Edad"
+    },
+    "neighborhood": {
+      "question": "Barrio",
+      "options": {
+        "neighborhood1": "8 de diciembre",
+        "neighborhood2": "Boquerón",
+        "neighborhood3": "Buena Vista",
+        "neighborhood4": "Caaguy Rory",
+        "neighborhood5": "Carlos A. López",
+        "neighborhood6": "Catedral",
+        "neighborhood7": "Cerrito",
+        "neighborhood8": "Chaipe",
+        "neighborhood9": "Cuatro Potrero",
+        "neighborhood10": "Curuzu Tomas",
+        "neighborhood11": "Defensores del Chaco (IPVU)",
+        "neighborhood12": "General Bernardino Caballero",
+        "neighborhood13": "Inmaculada Concepción",
+        "neighborhood14": "Ita Paso",
+        "neighborhood15": "Itacuá",
+        "neighborhood16": "Itangua",
+        "neighborhood17": "Juan León Mallorquín",
+        "neighborhood18": "Kennedy",
+        "neighborhood19": "La Paz",
+        "neighborhood20": "La Victoria",
+        "neighborhood21": "Los arrabales",
+        "neighborhood22": "María Auxiliadora",
+        "neighborhood23": "Mboi Ka’e",
+        "neighborhood24": "Nueva Esperanza",
+        "neighborhood25": "Obrero",
+        "neighborhood26": "Pacu Cua",
+        "neighborhood27": "Padre Bolik",
+        "neighborhood28": "Poti`y",
+        "neighborhood29": "Pradera Alta",
+        "neighborhood30": "Quiteria",
+        "neighborhood31": "San Antonio Ypekuru",
+        "neighborhood32": "San Blas",
+        "neighborhood33": "San Isidro",
+        "neighborhood34": "San José",
+        "neighborhood35": "San Luis",
+        "neighborhood36": "San Pedro",
+        "neighborhood37": "San Roque González",
+        "neighborhood38": "Santa María",
+        "neighborhood39": "Santa María Santillán",
+        "neighborhood40": "Santa Rosa",
+        "neighborhood41": "Santo Domingo",
+        "neighborhood42": "Urú Sapucái",
+        "neighborhood43": "Villa Cándida"
+      }
+    },
+    "address": {
+      "question": "Dirección"
+    },
+    "houseMembers": {
+      "question": "¿Cuántas personas viven en tu casa?"
+    },
+    "houseMembersList": {
+      "question": "¿Cuántas personas viven en tu casa?",
+      "options": {
+        "no": "No",
+        "relation": "Relación",
+        "age": "Edad",
+        "idNumber": "Cedula de Identidad",
+        "selectRelation": "Seleccionar relación",
+        "father": "Padre",
+        "mother": "Madre",
+        "partner": "Pareja",
+        "child": "Hijo/a",
+        "grandpa": "Abuelo/a",
+        "other": "Otro"
+      }
+    },
+    "liveInHome": {
+      "question": "Usted vive en una vivienda:",
+      "options": {
+        "own": "Propia",
+        "rental": "Alquiler",
+        "settlement": "Asentamiento",
+        "municipalland": "Terreno Municipal",
+        "sas": "SAS",
+        "payingFeeLoan": "Pagando Cuota de Préstamo"
+      }
+    },
+    "houseMaterial": {
+      "question": "Su casa esta construida con:",
+      "options": {
+        "houseMaterial1": "Ladrillo",
+        "houseMaterial2": "Madera",
+        "houseMaterial3": "Cartón y Hule"
+      }
+    },
+    "floor": {
+      "question": "El piso de su casa es:",
+      "options": {
+        "floor1": "Baldosa, Cerámico, etc.",
+        "floor2": "Lecherada, Cemento.",
+        "floor3": "Tierra"
+      }
+    },
+    "roof": {
+      "question": "El techo de su casa es:",
+      "options": {
+        "roof1": "Tejas, chapa sándwich",
+        "roof2": "Chapa común, zinc",
+        "roof3": "Cartón, hule, madera"
+      }
+    },
+    "bathroom": {
+      "question": "Su  baño es:",
+      "options": {
+        "bathroom1": "Con inodoro y lavamanos cerámicos.",
+        "bathroom2": "Letrina",
+        "bathroom3": "Pozo"
+      }
+    },
+    "water": {
+      "question": "El agua que consumen es:",
+      "options": {
+        "water1": "Junta de saneamiento",
+        "water2": "Pozo artesiano",
+        "water3": "Essap",
+        "water4": "Agua mineral"
+      }
+    },
+    "cooking": {
+      "question": "Para cocinar utiliza:",
+      "options": {
+        "cooking1": "Leña/Carbón",
+        "cooking2": "Gas Electricidad"
+      }
+    },
+    "asset": {
+      "question": "En el hogar tiene:(Puede marcar mas de uno)",
+      "options": {
+        "asset1": "Radio/Equipo de Sonido",
+        "asset2": "Televisor",
+        "asset3": "Heladera",
+        "asset4": "Cocina",
+        "asset5": "Lavarropa",
+        "asset6": "Agua Caliente",
+        "asset7": "Microonda",
+        "asset8": "TV por Cable",
+        "asset9": "Automóvil",
+        "asset10": "Moto"
+      }
+    },
+    "guarani": {
+      "question": "¿Cuantos guaraníes ingresa semanalmente al hogar en promedio?"
+    },
+    "symptomsType": {
+      "question": "¿Vos o alguna de las personas que vive en tu casa tiene alguno de estos síntomas?",
+      "options": {
+        "symptomsType1": "Tos",
+        "symptomsType2": "Fiebre",
+        "symptomsType3": "Dolor de Garganta",
+        "symptomsType4": "Diarrea",
+        "symptomsType5": "Dificultad para Respirar",
+        "symptomsType6": "Dolor de pecho",
+        "symptomsType7": "Sensación de Ahogo"
+      }
+    },
+    "suspectedCase": {
+      "question": "¿Existe algún caso sospechoso de corona virus en tu entorno inmediato?",
+      "options": {
+        "suspectedCase1": "Si",
+        "suspectedCase2": "No"
+      }
+    },
+    "suffering": {
+      "question": "¿Alguna persona que vive en su casa sufre de alguna discapacidad?",
+      "options": {
+        "suffering1": "Si",
+        "suffering2": "No"
+      }
+    },
+    "diseaseMembers": {
+      "question": "¿Cuántas personas que viven en tu casa tiene cáncer, diabetes, insuficiencia renal, lupus, o alguna otra"
+    },
+    "diseaseMembersList": {
+      "question": "¿Cuántas personas que viven en tu casa tiene cáncer, diabetes, insuficiencia renal, lupus, o alguna otra",
+      "options": {
+        "no": "No",
+        "relation": "Relación",
+        "age": "Edad",
+        "disease": "Enfermedad",
+        "selectRelation": "Seleccionar relación",
+        "father": "Padre",
+        "mother": "Madre",
+        "partner": "Pareja",
+        "child": "Hijo/a",
+        "grandpa": "Abuelo/a",
+        "other": "Otro",
+        "selectDisease": "Seleccionar enfermedad",
+        "cancer": "Cancer",
+        "diabetes": "Diabetes",
+        "lupus": "Lupus",
+        "otherCronicDisease": "Otra enfermedad cronica"
+      }
+    },
+    "regularVisitors": {
+      "question": "¿Cuántas personas cobran regularmente en su hogar?"
+    },
+    "mainSourceIncome": {
+      "question": "¿A que se dedica la persona con la principal fuente de ingresos de su casa?",
+      "options": {
+        "mainSourceIncome1": "Negocio Propio",
+        "mainSourceIncome2": "Trabajador/a Independiente",
+        "mainSourceIncome3": "Funcionario/a Publico (no incluye personal de Blanco)",
+        "mainSourceIncome4": "Empleado/a Sector Privado",
+        "mainSourceIncome5": "Comisionista/Vendedor",
+        "mainSourceIncome6": "Vendedor ambulante/ Vendedor en casilla",
+        "mainSourceIncome7": "Vendedor en marcado, macatero, artesano",
+        "mainSourceIncome8": "Personal del Sistema de Salud (Incluye administrativos)",
+        "mainSourceIncome9": "Chofer, Taxista",
+        "mainSourceIncome10": "Personal de Obra, Jardinero, Ayudante",
+        "mainSourceIncome11": "Empleada Domestica",
+        "mainSourceIncome12": "Costurero/a",
+        "mainSourceIncome13": "Tecnico independiente",
+        "mainSourceIncome14": "Lomitero, asadero panchero",
+        "mainSourceIncome15": "Desempleado/a",
+        "mainSourceIncome16": "Jubilado/a"
+      }
+    },
+    "workCategory": {
+      "question": "¿En que rubro se desempeña?",
+      "options": {
+        "workCategory1": "Agropecuario",
+        "workCategory2": "Comercio",
+        "workCategory3": "Servicios",
+        "workCategory4": "Industria",
+        "workCategory5": "Otro"
+      }
+    },
+    "employeesNumber": {
+      "question": "¿Cuántos empleados tiene?"
+    },
+    "allIPS": {
+      "question": "¿Se encuentran todos ellos en IPS?",
+      "options": {
+        "allIPS1": "Si",
+        "allIPS2": "No"
+      }
+    },
+    "layOffEmployees": {
+      "question": "¿Tendrá que despedir a cuantos empleados debido a la crisis?"
+    },
+    "businessSituation": {
+      "question": "Debido a la situación generada por el corona virus. Su negocio:",
+      "options": {
+        "businessSituation1": "Aumentara sus ingresos",
+        "businessSituation2": "Disminuirá sus ingresos",
+        "businessSituation3": "Los ingresos serán iguales"
+      }
+    },
+    "businessStrategy": {
+      "question": "¿Cómo enfrentara su negocio esta situación?",
+      "options": {
+        "businessStrategy1": "Con los ingresos que logre generar",
+        "businessStrategy2": "Utilizara sus ahorros",
+        "businessStrategy3": "Sacara un préstamo",
+        "businessStrategy4": "Reducción de personal",
+        "businessStrategy5": "Cerrara su negocio"
+      }
+    },
+    "amountMarchMoney": {
+      "question": "¿Cuánto dinero necesito para afrontar  fin de mes de Marzo?"
+    },
+    "amountAprilMoney": {
+      "question": "¿Cuánto dinero necesitara para afrontar  fin de mes de Abril?"
+    },
+    "commentMayer": {
+      "question": "¿Que le gustaría decirle al intendente Luis Yd?"
+    },
+    "headingCompany": {
+      "question": "¿En que rubro opera la empresa?",
+      "options": {
+        "headingCompany1": "Agropecuario",
+        "headingCompany2": "Comercio",
+        "headingCompany3": "Servicios",
+        "headingCompany4": "Industria",
+        "headingCompany5": "Otro"
+      }
+    },
+    "role": {
+      "question": "¿En que área de la empresa trabaja usted?",
+      "options": {
+        "role1": "Administrativa",
+        "role2": "Atención al cliente",
+        "role3": "Logística y almacén",
+        "role4": "Producción",
+        "role5": "Servicios",
+        "role6": "Informática"
+      }
+    },
+    "expectIPS": {
+      "question": "¿Cuenta Usted con IPS?",
+      "options": {
+        "expectIPS1": "Si",
+        "expectIPS2": "No"
+      }
+    },
+    "expectIPSHeadingCompany": {
+      "question": "¿Cuenta Usted con IPS?",
+      "options": {
+        "expectIPSHeadingCompany1": "Si",
+        "expectIPSHeadingCompany2": "No"
+      }
+    },
+    "expectIPSWhatCategoryDoes": {
+      "question": "¿Cuenta Usted con IPS?",
+      "options": {
+        "expectIPSWhatCategoryDoes1": "Si",
+        "expectIPSWhatCategoryDoes2": "No"
+      }
+    },    
+    "loseJob": {
+      "question": "¿Cree que puede perder su trabajo por el coronavirus?",
+      "options": {
+        "loseJob1": "Si",
+        "loseJob2": "No"
+      }
+    },
+    "loseJobHeadingCompany": {
+      "question": "¿Cree que puede perder su trabajo por el coronavirus?",
+      "options": {
+        "loseJobHeadingCompany1": "Si",
+        "loseJobHeadingCompany2": "No"
+      }
+    },
+    "loseJobWhatCategoryDoes": {
+      "question": "¿Cree que puede perder su trabajo por el coronavirus?",
+      "options": {
+        "loseJobWhatCategoryDoes1": "Si",
+        "loseJobWhatCategoryDoes2": "No"
+      }
+    },
+    "guaraniEnter": {
+      "question": "¿Cuantos guaranies ingresa a su familia semanalmente en promedio?"
+    },
+    "guaraniEnterHeadingCompany": {
+      "question": "¿Cuantos guaranies ingresa a su familia semanalmente en promedio?"
+    },
+    "guaraniEnterWhatCategoryDoes": {
+      "question": "¿Cuantos guaranies ingresa a su familia semanalmente en promedio?"
+    },
+    "workplace": {
+      "question": "Una vez que termine la cuarentena. ¿Seguira yendo a su lugar de trabajo?",
+      "options": {
+        "workplace1": "Si",
+        "workplace2": "No"
+      }
+    },
+    "workplaceHeadingCompany": {
+      "question": "Una vez que termine la cuarentena. ¿Seguira yendo a su lugar de trabajo?",
+      "options": {
+        "workplaceHeadingCompany1": "Si",
+        "workplaceHeadingCompany2": "No"
+      }
+    },
+    "workplaceWhatCategoryDoes": {
+      "question": "Una vez que termine la cuarentena. ¿Seguira yendo a su lugar de trabajo?",
+      "options": {
+        "workplaceWhatCategoryDoes1": "Si",
+        "workplaceWhatCategoryDoes2": "No"
+      }
+    },
+    "shareWorkplace": {
+      "question": "¿Con cuantas personas comparte el espacio de trabajo?"
+    },
+    "shareWorkplaceHeadingCompany": {
+      "question": "¿Con cuantas personas comparte el espacio de trabajo?"
+    },
+    "shareWorkplaceWhatCategoryDoes": {
+      "question": "¿Con cuantas personas comparte el espacio de trabajo?"
+    },
+    "whatCategoryDoes": {
+      "question": "¿En que rubro desempeña su labor?",
+      "options": {
+        "whatCategoryDoes1": "Agropecuario",
+        "whatCategoryDoes2": "Comercio",
+        "whatCategoryDoes3": "Servicios",
+        "whatCategoryDoes4": "Industria",
+        "whatCategoryDoes5": "Otro"
+      }
+    },
+    "areYou": {
+      "question": "Es Usted:",
+      "options": {
+        "areYou1": "Doctor/a",
+        "areYou2": "Enfermero/a",
+        "areYou3": "Personal de Laboratorio",
+        "areYou4": "Axuliar (chofer, limpiador, etc)"
+      }
+    },
+    "medicalCenterServing": {
+      "question": "¿En cual centro asistencial presta servicio?",
+      "options": {
+        "medicalCenterServing1": "Hospital Regional de Itapua",
+        "medicalCenterServing2": "Puesto de Salud San Isidro 1",
+        "medicalCenterServing3": "Puesto de Salud Cerrito",
+        "medicalCenterServing4": "USF - BO. SAN PEDRO ETAPA 4",
+        "medicalCenterServing5": "USF - STO DOMINGO",
+        "medicalCenterServing6": "USF - SAN ANTONIO YPECURÃš",
+        "medicalCenterServing7": "USF - SAN ISIDRO ETAPA 1",
+        "medicalCenterServing8": "USF - SAN ISIDRO ETAPA 7",
+        "medicalCenterServing9": "USF - BO SAN PEDRO",
+        "medicalCenterServing10": "USF - ITA PASO",
+        "medicalCenterServing11": "USF - CHAIPEI",
+        "medicalCenterServing12": "USF - SAN BLAS INDEPENDENCIA",
+        "medicalCenterServing13": "Hospital Pediatrico Municipal",
+        "medicalCenterServing14": "IPS Encarnacion",
+        "medicalCenterServing15": "Sanatorio La Trinidad",
+        "medicalCenterServing16": "Sanatorio Itapua",
+        "medicalCenterServing17": "Sanatorio Rio",
+        "medicalCenterServing18": "Sanatorio San Juan",
+        "medicalCenterServing19": "Sanatorio Don Bosco",
+        "medicalCenterServing20": "Clinica Tajy",
+        "medicalCenterServing21": "Instituto Privado del Trauma",
+        "medicalCenterServing22": "Otro"
+      }
+    },
+    "instruments": {
+      "question": "¿Cuentan ahí con todos los instrumentos de bioseguridad necesarios? (guantes, tapaboca, bata, etc)",
+      "options": {
+        "instruments1": "Si",
+        "instruments2": "No"
+      }
+    },
+    "suspectedCaseMedicalCenter": {
+      "question": "¿Existe algun caso sospechoso de coronavirus en su centro asistencial?",
+      "options": {
+        "suspectedCaseMedicalCenter1": "Si",
+        "suspectedCaseMedicalCenter2": "No"
+      }
+    },
+    "unemployedPeriod": {
+      "question": "¿Hace cuanto tiempo se encuentra desempleado?",
+      "options": {
+        "unemployedPeriod1": "Menos de 1 mes",
+        "unemployedPeriod2": "1-2 meses",
+        "unemployedPeriod3": "3-6 meses",
+        "unemployedPeriod4": "mas de 6 meses"
+      }
+    },
+    "produceFood": {
+      "question": "¿Puede producir sus propios alimentos?",
+      "options": {
+        "produceFood1": "Si",
+        "produceFood2": "No"
+      }
+    },
+    "surviveMoney": {
+      "question": "¿Cuánto dinero necesita para sobrevivir una semana?"
+    },
+    "receiveMoney": {
+      "question": "¿Cuánto dinero recibe mensualmente en su jubilacion?"
+    },
+    "spendDrugs": {
+      "question": "¿Cuánto gasta semanalmente en medicamentos?"
+    },
+    "breath": {
+      "question": "Do you have breathing problems, like dry coughing or sore throat?",
+      "subtitle": "If it's only a runny nose, please select NO."
+    },
+    "placeholder": "Select...",
+    "default": "Select",
+    "pleaseChoose": "Please select an option.",
+    "pleaseType": "Please type the info.",
+    "submit": "Enviar",
+    "errorSubmitting": "There was an error. Your answers could not be saved. Please, try again or contact us."
+  },
+  "healthCondition": {
+    "symptomsType": {
+      "question": "Vos or any of the people living in your house have any of these symptoms?",
+      "options": {
+        "symptomsType1": "Cough",
+        "symptomsType2": "Fever",
+        "symptomsType3": "Sore throat",
+        "symptomsType4": "Diarrhea",
+        "symptomsType5": "Difficulty breathing",
+        "symptomsType6": "Chest pain",
+        "symptomsType7": "Choking sensation"
+      }
+    },
+    "suspectedCase": {
+      "question": "Is there any suspected case of corona virus in your immediate environment?",
+      "options": {
+        "suspectedCase1": "Yes",
+        "suspectedCase2": "No"
+      }
+    },
+    "suffering": {
+      "question": "Any person living in your home suffers from a disability?",
+      "options": {
+        "suffering1": "Yes",
+        "suffering2": "No"
+      }
+    },
+    "diseaseMembers": {
+      "question": "How many people live in your house has cancer, diabetes, kidney disease, lupus or other chronic disease?"
+    },
+    "regularVisitors": {
+      "question": "How many people come regularly at home?"
+    }
+  },
+  "formSuccess": {},
+  "SelectQuestion": {
+    "placeholder": "Select...",
+    "default": "Select",
+    "pleaseChoose": "Please select an option."
+  }
+}
